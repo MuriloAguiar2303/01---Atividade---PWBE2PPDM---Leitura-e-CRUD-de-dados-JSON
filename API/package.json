@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "expo": "^51.0.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.7",
+    "mysql2-promise": "^0.1.4"
+  }
+}
